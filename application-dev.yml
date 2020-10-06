@@ -1,2 +1,4 @@
 spring:
     message: "Hello from profile DEV-updated"
+test:
+    password: "{cipher}15e7bd758b2ea1e9a2ecaf053891fe1e4b1293f9261dbda1f7fb764b1058103f"    
